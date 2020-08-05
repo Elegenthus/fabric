@@ -9,7 +9,7 @@ import (
 	"sync"
 
 	"github.com/golang/protobuf/proto"
-	pb "github.com/Elegenthus/fabric-protos-go/peer"
+	pb "github.com/hyperledger/fabric-protos-go/peer"
 )
 
 type state string
