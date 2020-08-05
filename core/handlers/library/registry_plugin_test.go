@@ -18,7 +18,7 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	endorsement "github.com/hyperledger/fabric/core/handlers/endorsement/api"
 	validation "github.com/hyperledger/fabric/core/handlers/validation/api"
 	"github.com/stretchr/testify/assert"

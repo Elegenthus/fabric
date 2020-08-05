@@ -9,9 +9,9 @@ package kvledger
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset/kvrwset"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/core/ledger"
 	"github.com/hyperledger/fabric/core/ledger/mock"
 	"github.com/stretchr/testify/assert"

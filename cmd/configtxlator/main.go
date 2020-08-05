@@ -15,12 +15,12 @@ import (
 	"reflect"
 
 	"github.com/golang/protobuf/proto"
-	_ "github.com/hyperledger/fabric-protos-go/common"
-	cb "github.com/hyperledger/fabric-protos-go/common" // Import these to register the proto types
-	_ "github.com/hyperledger/fabric-protos-go/msp"
-	_ "github.com/hyperledger/fabric-protos-go/orderer"
-	_ "github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
-	_ "github.com/hyperledger/fabric-protos-go/peer"
+	_ "github.com/Elegenthus/fabric-protos-go/common"
+	cb "github.com/Elegenthus/fabric-protos-go/common" // Import these to register the proto types
+	_ "github.com/Elegenthus/fabric-protos-go/msp"
+	_ "github.com/Elegenthus/fabric-protos-go/orderer"
+	_ "github.com/Elegenthus/fabric-protos-go/orderer/etcdraft"
+	_ "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/common/tools/protolator"
 	"github.com/hyperledger/fabric/internal/configtxlator/metadata"

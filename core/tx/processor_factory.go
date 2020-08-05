@@ -8,8 +8,8 @@ package tx
 import (
 	"github.com/pkg/errors"
 
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/pkg/tx"
 	"github.com/hyperledger/fabric/protoutil"
 )

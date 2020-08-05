@@ -6,8 +6,8 @@ SPDX-License-Identifier: Apache-2.0
 package history
 
 import (
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/ledger/queryresult"
 	commonledger "github.com/hyperledger/fabric/common/ledger"
 	"github.com/hyperledger/fabric/common/ledger/blkstorage"
 	"github.com/hyperledger/fabric/common/ledger/util/leveldbhelper"

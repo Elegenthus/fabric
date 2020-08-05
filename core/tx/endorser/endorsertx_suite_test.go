@@ -10,8 +10,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	txpkg "github.com/hyperledger/fabric/pkg/tx"
 	"github.com/hyperledger/fabric/protoutil"
 	. "github.com/onsi/ginkgo"

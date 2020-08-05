@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	proto "github.com/hyperledger/fabric-protos-go/gossip"
+	cb "github.com/Elegenthus/fabric-protos-go/common"
+	proto "github.com/Elegenthus/fabric-protos-go/gossip"
 	"github.com/hyperledger/fabric/bccsp/factory"
 	"github.com/hyperledger/fabric/common/metrics/disabled"
 	"github.com/hyperledger/fabric/core/comm"

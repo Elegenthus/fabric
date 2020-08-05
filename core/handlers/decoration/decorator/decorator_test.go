@@ -9,7 +9,7 @@ package decorator
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/stretchr/testify/assert"
 )
 

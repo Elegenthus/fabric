@@ -9,7 +9,7 @@ package main
 import (
 	"context"
 
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/core/handlers/auth"
 )
 

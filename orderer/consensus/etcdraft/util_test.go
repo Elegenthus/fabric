@@ -13,8 +13,8 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/common"
-	etcdraftproto "github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	etcdraftproto "github.com/Elegenthus/fabric-protos-go/orderer/etcdraft"
 	"github.com/hyperledger/fabric/bccsp/sw"
 	"github.com/hyperledger/fabric/common/crypto/tlsgen"
 	"github.com/hyperledger/fabric/orderer/common/cluster"

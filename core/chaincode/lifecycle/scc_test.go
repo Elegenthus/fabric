@@ -15,9 +15,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-chaincode-go/shim"
-	mspprotos "github.com/hyperledger/fabric-protos-go/msp"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
-	lb "github.com/hyperledger/fabric-protos-go/peer/lifecycle"
+	mspprotos "github.com/Elegenthus/fabric-protos-go/msp"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
+	lb "github.com/Elegenthus/fabric-protos-go/peer/lifecycle"
 	"github.com/hyperledger/fabric/common/cauthdsl"
 	"github.com/hyperledger/fabric/common/chaincode"
 	"github.com/hyperledger/fabric/common/channelconfig"

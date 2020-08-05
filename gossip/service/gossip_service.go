@@ -9,8 +9,8 @@ package service
 import (
 	"sync"
 
-	gproto "github.com/hyperledger/fabric-protos-go/gossip"
-	tspb "github.com/hyperledger/fabric-protos-go/transientstore"
+	gproto "github.com/Elegenthus/fabric-protos-go/gossip"
+	tspb "github.com/Elegenthus/fabric-protos-go/transientstore"
 	corecomm "github.com/hyperledger/fabric/core/comm"
 	"github.com/hyperledger/fabric/core/committer"
 	"github.com/hyperledger/fabric/core/committer/txvalidator"

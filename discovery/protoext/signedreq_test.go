@@ -10,7 +10,7 @@ import (
 	"testing"
 
 	"github.com/gogo/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/discovery"
+	"github.com/Elegenthus/fabric-protos-go/discovery"
 	"github.com/hyperledger/fabric/discovery/protoext"
 	"github.com/stretchr/testify/assert"
 )

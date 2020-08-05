@@ -13,9 +13,9 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/msp"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	cb "github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/msp"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/common/tools/protolator"
 	"github.com/hyperledger/fabric/core/config/configtest"
 	"github.com/hyperledger/fabric/internal/configtxgen/encoder"

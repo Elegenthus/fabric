@@ -14,7 +14,7 @@ import (
 	"github.com/hyperledger/fabric/core/container/ccintf"
 	"github.com/pkg/errors"
 
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 
 	"google.golang.org/grpc"
 )

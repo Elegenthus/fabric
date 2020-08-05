@@ -24,7 +24,7 @@ import (
 	docker "github.com/fsouza/go-dockerclient"
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-lib-go/healthz"
-	"github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
+	"github.com/Elegenthus/fabric-protos-go/orderer/etcdraft"
 	"github.com/hyperledger/fabric/common/util"
 	"github.com/hyperledger/fabric/integration/nwo"
 	"github.com/hyperledger/fabric/integration/nwo/commands"

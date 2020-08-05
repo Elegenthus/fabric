@@ -9,11 +9,11 @@ package lifecycle_test
 import (
 	"fmt"
 
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
-	"github.com/hyperledger/fabric-protos-go/msp"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
-	lb "github.com/hyperledger/fabric-protos-go/peer/lifecycle"
+	cb "github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset/kvrwset"
+	"github.com/Elegenthus/fabric-protos-go/msp"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
+	lb "github.com/Elegenthus/fabric-protos-go/peer/lifecycle"
 	"github.com/hyperledger/fabric/common/channelconfig"
 	"github.com/hyperledger/fabric/common/util"
 	"github.com/hyperledger/fabric/core/chaincode/lifecycle"

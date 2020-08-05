@@ -7,7 +7,7 @@ import (
 
 	mock "github.com/stretchr/testify/mock"
 
-	peer "github.com/hyperledger/fabric-protos-go/peer"
+	peer "github.com/Elegenthus/fabric-protos-go/peer"
 
 	privdata "github.com/hyperledger/fabric/core/common/privdata"
 )

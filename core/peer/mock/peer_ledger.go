@@ -4,8 +4,8 @@ package mock
 import (
 	"sync"
 
-	"github.com/hyperledger/fabric-protos-go/common"
-	peera "github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	peera "github.com/Elegenthus/fabric-protos-go/peer"
 	ledgera "github.com/hyperledger/fabric/common/ledger"
 	"github.com/hyperledger/fabric/core/ledger"
 )

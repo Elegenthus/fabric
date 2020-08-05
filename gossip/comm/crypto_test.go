@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	proto "github.com/hyperledger/fabric-protos-go/gossip"
+	proto "github.com/Elegenthus/fabric-protos-go/gossip"
 	"github.com/hyperledger/fabric/gossip/util"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/grpc"

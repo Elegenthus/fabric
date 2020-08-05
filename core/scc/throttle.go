@@ -10,7 +10,7 @@ import (
 	"context"
 
 	"github.com/hyperledger/fabric-chaincode-go/shim"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/common/semaphore"
 )
 

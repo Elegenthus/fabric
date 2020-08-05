@@ -5,8 +5,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/orderer"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/orderer"
 	"google.golang.org/grpc/metadata"
 )
 

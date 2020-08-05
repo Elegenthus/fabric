@@ -13,7 +13,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	cb "github.com/hyperledger/fabric-protos-go/common"
+	cb "github.com/Elegenthus/fabric-protos-go/common"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/stretchr/testify/assert"
 )

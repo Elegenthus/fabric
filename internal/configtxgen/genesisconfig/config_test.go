@@ -9,7 +9,7 @@ package genesisconfig
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
+	"github.com/Elegenthus/fabric-protos-go/orderer/etcdraft"
 	"github.com/hyperledger/fabric/core/config/configtest"
 	"github.com/stretchr/testify/assert"
 )

@@ -7,7 +7,7 @@ SPDX-License-Identifier: Apache-2.0
 package internal
 
 import (
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset/kvrwset"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/privacyenabledstate"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/rwsetutil"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/statedb"

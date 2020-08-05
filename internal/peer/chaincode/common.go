@@ -18,9 +18,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/hyperledger/fabric-chaincode-go/shim"
-	pcommon "github.com/hyperledger/fabric-protos-go/common"
-	ab "github.com/hyperledger/fabric-protos-go/orderer"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pcommon "github.com/Elegenthus/fabric-protos-go/common"
+	ab "github.com/Elegenthus/fabric-protos-go/orderer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/bccsp"
 	"github.com/hyperledger/fabric/common/cauthdsl"
 	"github.com/hyperledger/fabric/common/util"

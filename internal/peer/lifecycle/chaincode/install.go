@@ -10,9 +10,9 @@ import (
 	"context"
 
 	"github.com/golang/protobuf/proto"
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
-	lb "github.com/hyperledger/fabric-protos-go/peer/lifecycle"
+	cb "github.com/Elegenthus/fabric-protos-go/common"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
+	lb "github.com/Elegenthus/fabric-protos-go/peer/lifecycle"
 	"github.com/hyperledger/fabric/bccsp"
 	"github.com/hyperledger/fabric/core/chaincode/persistence"
 	"github.com/hyperledger/fabric/protoutil"

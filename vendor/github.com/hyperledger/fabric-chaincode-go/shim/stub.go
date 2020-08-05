@@ -13,9 +13,9 @@ import (
 
 	"github.com/golang/protobuf/proto"
 	"github.com/golang/protobuf/ptypes/timestamp"
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/Elegenthus/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/ledger/queryresult"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 )
 
 // ChaincodeStub is an object passed to chaincode for shim side handling of

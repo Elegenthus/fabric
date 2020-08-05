@@ -21,7 +21,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hyperledger/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/common"
 	"github.com/hyperledger/fabric/common/ledger/testutil"
 	"github.com/stretchr/testify/assert"
 )

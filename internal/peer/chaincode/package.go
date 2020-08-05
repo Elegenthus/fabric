@@ -10,8 +10,8 @@ import (
 	"io/ioutil"
 
 	"github.com/golang/protobuf/proto"
-	pcommon "github.com/hyperledger/fabric-protos-go/common"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pcommon "github.com/Elegenthus/fabric-protos-go/common"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/bccsp"
 	"github.com/hyperledger/fabric/bccsp/factory"
 	"github.com/hyperledger/fabric/common/cauthdsl"

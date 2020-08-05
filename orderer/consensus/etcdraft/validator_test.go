@@ -8,7 +8,7 @@ package etcdraft_test
 
 import (
 	"github.com/golang/protobuf/proto"
-	etcdraftproto "github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
+	etcdraftproto "github.com/Elegenthus/fabric-protos-go/orderer/etcdraft"
 	"github.com/hyperledger/fabric/bccsp/sw"
 	"github.com/hyperledger/fabric/common/crypto/tlsgen"
 	"github.com/hyperledger/fabric/orderer/consensus/etcdraft"

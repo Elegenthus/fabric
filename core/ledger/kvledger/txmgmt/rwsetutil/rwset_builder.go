@@ -17,8 +17,8 @@ limitations under the License.
 package rwsetutil
 
 import (
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset/kvrwset"
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/core/ledger"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/version"

@@ -99,7 +99,7 @@ First, let's start with some housekeeping. As with every chaincode, it implement
 in particular, ``Init`` and ``Invoke`` functions. So, let's add the Go import
 statements for the necessary dependencies for our chaincode. We'll import the
 chaincode shim package and the
-`peer protobuf package <https://godoc.org/github.com/hyperledger/fabric-protos-go/peer>`_.
+`peer protobuf package <https://godoc.org/github.com/Elegenthus/fabric-protos-go/peer>`_.
 Next, let's add a struct ``SimpleAsset`` as a receiver for Chaincode shim functions.
 
 .. code:: go
@@ -110,7 +110,7 @@ Next, let's add a struct ``SimpleAsset`` as a receiver for Chaincode shim functi
     	"fmt"
 
     	"github.com/hyperledger/fabric-chaincode-go/shim"
-    	"github.com/hyperledger/fabric-protos-go/peer"
+    	"github.com/Elegenthus/fabric-protos-go/peer"
     )
 
     // SimpleAsset implements a simple chaincode to manage an asset
@@ -303,7 +303,7 @@ function. Here's the whole chaincode program source.
     	"fmt"
 
     	"github.com/hyperledger/fabric-chaincode-go/shim"
-    	"github.com/hyperledger/fabric-protos-go/peer"
+    	"github.com/Elegenthus/fabric-protos-go/peer"
     )
 
     // SimpleAsset implements a simple chaincode to manage an asset

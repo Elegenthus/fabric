@@ -10,7 +10,7 @@ import (
 	"fmt"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/msp"
+	"github.com/Elegenthus/fabric-protos-go/msp"
 )
 
 type MSPPrincipal struct{ *msp.MSPPrincipal }

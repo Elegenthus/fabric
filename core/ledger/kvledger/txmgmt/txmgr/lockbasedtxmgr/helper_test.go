@@ -8,8 +8,8 @@ package lockbasedtxmgr
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
+	"github.com/Elegenthus/fabric-protos-go/ledger/queryresult"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset/kvrwset"
 	"github.com/hyperledger/fabric/bccsp/sw"
 	commonledger "github.com/hyperledger/fabric/common/ledger"
 	"github.com/hyperledger/fabric/common/ledger/testutil"

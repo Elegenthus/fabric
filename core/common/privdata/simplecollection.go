@@ -10,8 +10,8 @@ import (
 	"fmt"
 
 	"github.com/golang/protobuf/proto"
-	m "github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	m "github.com/Elegenthus/fabric-protos-go/msp"
+	"github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/common/policies"
 	"github.com/hyperledger/fabric/msp"
 	"github.com/hyperledger/fabric/protoutil"

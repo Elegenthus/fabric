@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"sync"
 
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 )
 
 //SendPanicFailure

@@ -8,7 +8,7 @@ package storageutil
 
 import (
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset/kvrwset"
+	"github.com/Elegenthus/fabric-protos-go/ledger/rwset/kvrwset"
 	"github.com/hyperledger/fabric/core/ledger/util"
 )
 

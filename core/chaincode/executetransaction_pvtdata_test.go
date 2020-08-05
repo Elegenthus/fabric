@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/common/util"
 	"github.com/hyperledger/fabric/core/peer"
 	"github.com/spf13/viper"

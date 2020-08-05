@@ -9,7 +9,7 @@ package protoutil_test
 import (
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/common"
+	"github.com/Elegenthus/fabric-protos-go/common"
 	"github.com/hyperledger/fabric/protoutil"
 	"github.com/stretchr/testify/assert"
 )

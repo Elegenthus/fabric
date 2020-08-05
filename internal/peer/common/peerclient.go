@@ -12,7 +12,7 @@ import (
 	"io/ioutil"
 	"time"
 
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/core/comm"
 	"github.com/hyperledger/fabric/core/config"
 	"github.com/pkg/errors"

@@ -15,7 +15,7 @@ import (
 	"io/ioutil"
 	"math/big"
 
-	"github.com/hyperledger/fabric-protos-go/msp"
+	"github.com/Elegenthus/fabric-protos-go/msp"
 	"github.com/hyperledger/fabric/bccsp/utils"
 	"github.com/hyperledger/fabric/common/util"
 	"github.com/hyperledger/fabric/protoutil"

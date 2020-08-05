@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/hyperledger/fabric-protos-go/ledger/queryresult"
+	"github.com/Elegenthus/fabric-protos-go/ledger/queryresult"
 	"github.com/hyperledger/fabric/common/ledger/testutil"
 	"github.com/hyperledger/fabric/core/ledger"
 	"github.com/hyperledger/fabric/core/ledger/kvledger/txmgmt/privacyenabledstate"

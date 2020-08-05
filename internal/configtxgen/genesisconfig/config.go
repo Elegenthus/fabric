@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
+	"github.com/Elegenthus/fabric-protos-go/orderer/etcdraft"
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/common/policies"
 	"github.com/hyperledger/fabric/common/viperutil"

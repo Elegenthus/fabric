@@ -13,7 +13,7 @@ import (
 	"time"
 
 	"github.com/hyperledger/fabric-chaincode-go/shim"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 )
 
 // This chaincode implements a simple map that is stored in the state.

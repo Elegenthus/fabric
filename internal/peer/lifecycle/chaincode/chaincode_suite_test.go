@@ -11,7 +11,7 @@ import (
 	"os"
 	"testing"
 
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 	"github.com/hyperledger/fabric/internal/peer/common"
 	"github.com/hyperledger/fabric/internal/peer/lifecycle/chaincode"
 	msptesttools "github.com/hyperledger/fabric/msp/mgmt/testtools"

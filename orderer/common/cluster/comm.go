@@ -17,7 +17,7 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/orderer"
+	"github.com/Elegenthus/fabric-protos-go/orderer"
 	"github.com/hyperledger/fabric/common/flogging"
 	"github.com/hyperledger/fabric/core/comm"
 	"github.com/pkg/errors"

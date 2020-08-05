@@ -8,7 +8,7 @@ package main
 
 import (
 	"github.com/hyperledger/fabric-chaincode-go/shim"
-	pb "github.com/hyperledger/fabric-protos-go/peer"
+	pb "github.com/Elegenthus/fabric-protos-go/peer"
 )
 
 // New returns an implementation of the chaincode interface

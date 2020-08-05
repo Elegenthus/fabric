@@ -10,8 +10,8 @@ import (
 	"math"
 	"os"
 
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	ab "github.com/hyperledger/fabric-protos-go/orderer"
+	cb "github.com/Elegenthus/fabric-protos-go/common"
+	ab "github.com/Elegenthus/fabric-protos-go/orderer"
 	"github.com/hyperledger/fabric/bccsp/factory"
 	"github.com/hyperledger/fabric/common/tools/protolator"
 	"github.com/hyperledger/fabric/internal/pkg/identity"
